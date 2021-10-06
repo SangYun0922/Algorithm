@@ -1,4 +1,4 @@
-# 출처 : https://suri78.tistory.com/143 해당 링크를 참조하였습니다.
+# 출처 : https://velog.io/@leehe228/boj1517 해당 링크를 참조하였습니다.
 
 import sys
 
