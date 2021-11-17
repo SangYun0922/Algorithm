@@ -6,6 +6,7 @@ stack = []
 commands = deque()
 answer = []
 
+# str.startswith()는 ()안에는 문자열을 적어주고, 문자열이 str에 존재하는지 판별해줍니다. 옵션으로 시작인덱스,끝나는 인덱스를 적을시 해당 범위만큼 str을 슬라이스하여 문자열이 존재하는지 판별해줍니다.
 def mod(a, b):
     res_a, res_b = abs(a), abs(b)
     result = res_a % res_b
